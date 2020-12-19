@@ -1,0 +1,16 @@
+C:\School\CSC-139\Chapter6\Factorial Calculator\bin\Debug\Factorial Calculator.exe.config
+C:\School\CSC-139\Chapter6\Factorial Calculator\bin\Debug\Factorial Calculator.exe
+C:\School\CSC-139\Chapter6\Factorial Calculator\bin\Debug\Factorial Calculator.pdb
+C:\School\CSC-139\Chapter6\Factorial Calculator\bin\Debug\Factorial Calculator.xml
+C:\School\CSC-139\Chapter6\Factorial Calculator\obj\Debug\Factorial Calculator.vbprojAssemblyReference.cache
+C:\School\CSC-139\Chapter6\Factorial Calculator\obj\Debug\Factorial_Calculator.frmMain.resources
+C:\School\CSC-139\Chapter6\Factorial Calculator\obj\Debug\Factorial_Calculator.Resources.resources
+C:\School\CSC-139\Chapter6\Factorial Calculator\obj\Debug\Factorial Calculator.vbproj.GenerateResource.cache
+C:\School\CSC-139\Chapter6\Factorial Calculator\obj\Debug\Factorial Calculator.vbproj.CoreCompileInputs.cache
+C:\School\CSC-139\Chapter6\Factorial Calculator\obj\Debug\Factorial Calculator.exe
+C:\School\CSC-139\Chapter6\Factorial Calculator\obj\Debug\Factorial Calculator.xml
+C:\School\CSC-139\Chapter6\Factorial Calculator\obj\Debug\Factorial Calculator.pdb
+C:\School\CSC-139\Chapter6\Factorial Calculator\bin\Debug\Factorial Calculator.exe.manifest
+C:\School\CSC-139\Chapter6\Factorial Calculator\bin\Debug\Factorial Calculator.application
+C:\School\CSC-139\Chapter6\Factorial Calculator\obj\Debug\Factorial Calculator.exe.manifest
+C:\School\CSC-139\Chapter6\Factorial Calculator\obj\Debug\Factorial Calculator.application
